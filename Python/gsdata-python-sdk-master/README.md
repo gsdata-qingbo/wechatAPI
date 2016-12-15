@@ -1,11 +1,11 @@
-# gsdata-python-sdk
+﻿# gsdata-python-sdk
 
 ![MIT](https://img.shields.io/npm/l/express.svg) [![version](https://img.shields.io/pypi/v/gsdata.svg)](https://pypi.python.org/pypi/gsdata)  [![Build Status](https://travis-ci.org/superalsrk/gsdata-python-sdk.svg?branch=master&v=11)](https://travis-ci.org/superalsrk/gsdata-python-sdk)
 
 
 ### 前言
 
-[gsdata-python-sdk](http://github.com/superalsrk/gsdata-python-sdk) 是一个非官方的 [gsdata](http://open.gsdata.cn/) python开发包, 祝使用愉快。
+[gsdata-python-sdk](http://github.com/superalsrk/gsdata-python-sdk) 是一个第三方的 [gsdata](http://open.gsdata.cn/) python开发包, 祝使用愉快。
 
 + [issure地址](https://github.com/superalsrk/gsdata-python-sdk)
 + 支持 python2.6, python2.7, python3.2, python3.3, python3.4, python3.5
